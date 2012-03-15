@@ -8,13 +8,13 @@ Utilities for utilizing Window Management Instrumentation functionality on
 a Windows system from a Linux system.
 
 wmi_method:
-	Invode a WMI method on a remote Windows machine from linux
+	Invoke a WMI method on a remote Windows machine from Linux
 
 wmi_pushscript:
-	Echo a script line by line to a remote Windows machine from linux
+	Echo a script line by line to a remote Windows machine from Linux
 
 wmi_rexec:
-	Create a process on a remote Windows machine from linux
+	Create a process on a remote Windows machine from Linux
 
 The utilities are built on Samba which is included in its entirity in
 this distribution.
