@@ -1,0 +1,20 @@
+Copyright 2011-2012 Racemi, Inc.
+
+This code is licensed under GNU General Public License v2.
+
+See COPYING for licensing information.
+
+Utilities for utilizing Window Management Instrumentation functionality on
+a Windows system from a Linux system.
+
+wmi_method:
+	Invode a WMI method on a remote Windows machine from linux
+
+wmi_pushscript:
+	Echo a script line by line to a remote Windows machine from linux
+
+wmi_rexec:
+	Create a process on a remote Windows machine from linux
+
+The utilities are built on Samba which is included in its entirity in
+this distribution.

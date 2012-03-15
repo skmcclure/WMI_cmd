@@ -1,0 +1,5 @@
+#!/bin/sh
+
+SHARE_BACKEND="ldb"
+
+. `dirname $0`/mktestsetup.sh

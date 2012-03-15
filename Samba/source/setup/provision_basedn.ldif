@@ -1,0 +1,10 @@
+################################
+## Domain Naming Context
+################################
+dn: ${BASEDN}
+objectClass: top
+objectClass: domain
+objectClass: domainDNS
+${EXTENSIBLEOBJECT}
+dc: ${RDN_DC}
+
